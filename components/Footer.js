@@ -1,11 +1,11 @@
 export function Footer () {
   return (
-        <footer className="p-4 bg-white sm:p-6 dark:bg-gray-800 w-2/4">
+        <footer className="p-4 bg-white sm:p-6 dark:bg-gray-800 w-full xl:w-4/6">
             <div className="md:flex md:justify-between">
                 <div className="mb-6 md:mb-0">
                     <a href="https://flowbite.com/" className="flex items-center">
-                        <img src="/docs/images/logo.svg" className="mr-3 h-8" alt="FlowBite Logo" />
-                        <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">Flowbite</span>
+                        <img src="https://surdle.github.io/univalle/logo.png" className="mr-3 h-8" alt="FlowBite Logo" />
+                        <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">Univalle</span>
                     </a>
                 </div>
                 <div className="grid grid-cols-2 gap-8 sm:gap-6 sm:grid-cols-3">
