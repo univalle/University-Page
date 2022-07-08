@@ -1,6 +1,6 @@
 export const Timeline = () => {
   return (
-        <div className="p-10 bg-white rounded-lg border-gray-200dark:bg-neutral-800 xl:overflow-y-auto xl:h-full xl:scrollbar py-20">
+        <div className="sm:p-10 bg-white rounded-lg border-gray-200dark:bg-neutral-800 xl:overflow-y-auto xl:h-full xl:scrollbar pt-10 mb-20">
 
             <ol className="relative border-l border-gray-200">
                 <li className="mb-10 ml-4">

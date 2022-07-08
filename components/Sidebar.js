@@ -5,7 +5,7 @@ export function Sidebar () {
         <aside className="w-full" aria-label="Sidebar">
             <div className="overflow-y-auto py-4 px-3 bg-white rounded ">
                 <ul className="space-y-2">
-                    <li className='py-4 pl-10 border-b border-gray-300'>
+                    <li className='py-4 pl-4 border-b border-gray-300'>
                         <User />
                     </li>
                     <li>
